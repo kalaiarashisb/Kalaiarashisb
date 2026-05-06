@@ -1,73 +1,76 @@
-
-# Hi there 👋 I'm Kalaiarashi S B
-
 <div align="center">
 
-### 🚀 Aspiring Data Science & AI Enthusiast  
-Passionate about Machine Learning, Data Analytics, NLP, and Full-Stack Development
+# Hi 👋, I'm Kalaiarashi S B
+
+### Data Science • Machine Learning • Full Stack Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real-World+AI+Solutions" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaiarashisb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalaiarashisb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalaiarashishanmugam@gmail.com)
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 💫 About Me
 
-🎓 M.Tech CSE Student at Sri Krishna College of Engineering and Technology  
-💡 Passionate about solving real-world problems using AI & Data Science  
-📊 Skilled in Machine Learning, Data Analysis, and Predictive Modeling  
-💻 Interested in Full-Stack Development and Intelligent Systems  
-🌱 Currently learning Advanced ML, DSA, and Scalable System Design  
-⚡ Love building impactful and research-driven projects  
+🎓 M.Tech CSE Student passionate about AI, Machine Learning, and scalable software systems.  
+📊 Interested in transforming raw data into meaningful insights and intelligent solutions.  
+💡 Strong focus on real-world problem solving through Data Science and Full Stack Development.  
+🚀 Continuously learning advanced ML concepts, system design, and research-driven technologies.  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+### Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,html,css" />
+</p>
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+### Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 📈 Proactive Demand Forecasting for Aadhaar Services
-🔹 Built a Linear Regression model to forecast demand trends  
-🔹 Applied K-Means clustering for state-wise demand segmentation  
-🔹 Performed preprocessing, feature engineering, and evaluation  
-🔹 Generated insights for efficient resource planning  
+✔️ Built a Linear Regression model to predict demand trends  
+✔️ Applied K-Means clustering for state-wise segmentation  
+✔️ Performed preprocessing, feature engineering, and evaluation  
+✔️ Generated insights for resource planning and decision-making  
 
 ---
 
 ## 🎓 Student Portal Account Management System
-🔹 Developed using React.js + Spring Boot + MySQL  
-🔹 Implemented REST APIs and CRUD operations  
-🔹 Designed responsive and user-friendly UI  
-🔹 Integrated backend services with database management  
+✔️ Developed using React.js, Spring Boot, and MySQL  
+✔️ Designed REST APIs and implemented CRUD operations  
+✔️ Built responsive and user-friendly interfaces  
+✔️ Integrated frontend and backend systems efficiently  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 **1st Place – Presentrix, INFOQUEST ’26 (GCT Coimbatore)**  
 🥉 **3rd Prize – National Level Paper Presentation (VIHANSA 2K26)**  
@@ -76,41 +79,26 @@ Passionate about Machine Learning, Data Analytics, NLP, and Full-Stack Developme
 
 
 
-# 🌐 Connect With Me
+# 🌱 Current Focus
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/kalaiarashisb">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kalaiarashishanmugam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kalaiarashisb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+- Machine Learning & AI
+- Data Structures & Algorithms
+- NLP & Generative AI
+- Scalable Backend Systems
+- Research & Real-World Projects
 
 ---
 
-## ✨ Quote
+# 📫 Connect With Me
 
-> “Transforming curiosity into intelligent solutions through AI and technology.”
+📧 **Email:** kalaiarashishanmugam@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/kalaiarashisb  
+🌐 **GitHub:** https://github.com/kalaiarashisb  
 
-<!--
-**kalaiarashisb/Kalaiarashisb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ "Building intelligent solutions through curiosity, data, and innovation."
+
+</div>
